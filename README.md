@@ -1,3 +1,5 @@
-"# MachineLearning-2021-12" 
-"# MachineLearning-2021-12" 
-"# MachineLearning-2021-12" 
+# Machine-Learning
+
+## RPA를 위한 인공지능 과정
+
+#### 2022년 4월까지 진행
